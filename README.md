@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFE27B&text=&animation=twinkling&height=120)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=40&duration=5000&pause=3&color=FFE27B&center=false&vCenter=false&multiline=true&repeat=False&width=1000&height=100&lines=Welcome+to+DAEUNs+GitHub!✌️)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFE27B&text=&animation=twinkling&height=120)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=40&duration=5000&pause=3&color=FFE27B&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+DAEUNs+GitHub!✌️)](https://git.io/typing-svg)
 
 
 <div align="center">
